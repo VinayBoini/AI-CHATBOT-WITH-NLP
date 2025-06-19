@@ -9,3 +9,7 @@
 *DURATION*: 12 WEEKS
 
 *MENTOR*: NEELA SANTOSH KUMAR
+
+##OUTPUT TASK 3
+
+![Image](https://github.com/user-attachments/assets/3171be13-7aa6-4408-83ae-2b0c1dea4dff)
